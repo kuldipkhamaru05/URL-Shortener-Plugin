@@ -9,7 +9,7 @@ Stable tag: 4.3
 
 1. Upload the plugin to the /wp-content/plugins/ directory or you can do that from back end as well.
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Place <b>[url_shorten]</b> shortcode in your page editor or call ir via template file using do_shortcode function.
+3. Place <b>[url_shorten]</b> shortcode in your page editor or call via template file using do_shortcode function.
 4. You will found the instructions under Settings -> URL Plugin Settings.
 
 == Description of the plugin ==
