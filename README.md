@@ -9,7 +9,7 @@ Stable tag: 4.3
 
 1. Upload the plugin to the /wp-content/plugins/ directory or you can do that from back end as well.
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Place [url_shorten] shortcode in your page editor or call ir via template file using do_shortcode function.
+3. Place <b>[url_shorten]</b> shortcode in your page editor or call ir via template file using do_shortcode function.
 4. You will found the instructions under Settings -> URL Plugin Settings.
 
 == Description of the plugin ==
@@ -17,7 +17,7 @@ Stable tag: 4.3
 This plugin allow users to convert their Short URL to Long URL and Long URL to Short URL. Also, you can check the details from below as well.
 
 <ul>
-<li> Please copy the shortcode [url_shorten]  and paste in the page editor.</li>
+<li> Please copy the shortcode <b>[url_shorten]</b>  and paste in the page editor.</li>
 <li> After pasting the shortcode you can see that there are 2 forms on the front end.</li>
 <li> One is for Long URL to Short URL.</li>
 <li> Another one is for Short URL to Long URL.</li>
