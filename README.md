@@ -22,6 +22,6 @@ This plugin allow users to convert their Short URL to Long URL and Long URL to S
 <li> One is for Long URL to Short URL.</li>
 <li> Another one is for Short URL to Long URL.</li>
 <li> If you test the things from front end then go to the back end.</li>
-<li> You will found an area named URLs.</li>
+<li> You will found an area named <b>URLs.</b></li>
 <li> From there you can be able to check the URL Details that you just did.</li>
 </ul>
